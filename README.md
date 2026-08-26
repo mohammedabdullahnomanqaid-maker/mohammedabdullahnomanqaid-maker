@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,43&height=180&section=header&text=Mohammed%20Abdullah%20Noman&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,43&height=180&section=header&text=Mohammed%20Noman&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%"/>
 </div>
 
 <p align="center">
