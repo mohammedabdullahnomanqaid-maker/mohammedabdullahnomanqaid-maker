@@ -215,10 +215,10 @@ The projects show a progression from programming fundamentals toward structured 
                             ▼
                     Programming Basics
 ---
-
+```
 ## 📚 Project Progression — Newest → Oldest
 
-```text
+
 MBank v3.1.0
 C# · Windows Forms · ADO.NET · SQL Server
 Three-Tier Architecture
