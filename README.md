@@ -120,5 +120,26 @@ ERD & Relational Modeling
 3-Tier Architecture
           ↓
 Database-Driven Desktop Applications
-
+```
 ---
+## 🎓 Featured Academic Project
+
+### 🚗 DVLD — Driving & Vehicle License Department
+
+> A **C# Windows Forms desktop application** built as an academic project, focused on managing driving license operations using **SQL Server, ADO.NET, and Three-Tier Architecture**.
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/3--Tier%20Architecture-3949AB?style=flat-square">
+</p>
+
+**Core Areas:** People & Users • Drivers • Applications • Tests • Licenses • International Licenses • Detained Licenses
+
+<p>
+  🔗 <a href="https://github.com/mohammedabdullahnomanqaid-maker/DVLD-v1.0.0"><strong>View Repository</strong></a>
+  &nbsp;•&nbsp;
+  📅 <strong>2026/07/04 → 2026/08/04</strong>
+</p>
