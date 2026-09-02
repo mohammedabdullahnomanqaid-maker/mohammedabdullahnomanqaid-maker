@@ -195,3 +195,20 @@ Database-Driven Desktop Applications
 *Management & Professional Development*
 
 ---
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://github.com/mohammedabdullahnomanqaid-maker">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+<p align="center">
+  💬 <strong>Open to collaboration, learning opportunities, and software development projects.</strong>
+</p>
