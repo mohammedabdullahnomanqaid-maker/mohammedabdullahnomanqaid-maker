@@ -4,18 +4,18 @@
 
 ### 💻 CS sophomore at Taiz University |.Net Full-Stack Desktop developer .
 
-<p>
-  <a href="#-professional-profile">👨‍💻 Profile</a>
+<p align="center">
+  <a href="#-computer-science-student">🧑‍🎓 Profile</a>
   •
-  <a href="#-technical-skills--stack">⚡ Skills</a>
+  <a href="#-technical-skills--expertise">⚡ Skills</a>
   •
-  <a href="#-featured-projects">🚀 Projects</a>
+  <a href="#-featured-academic-project">🎓 Featured Project</a>
   •
   <a href="#-timeline">📅 Timeline</a>
   •
-  <a href="#-github-stats">📊 GitHub Stats</a>
+  <a href="#-education">🎓 Education</a>
   •
-  <a href="#-connect-with-me">📫 Connect</a>
+  <a href="#-contact-me">📫 Contact</a>
 </p>
 
 </div>
@@ -194,6 +194,13 @@ Database-Driven Desktop Applications
 **Management Does**  
 *Management & Professional Development*
 
+---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabdullahnomanqaid-maker&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabdullahnomanqaid-maker&layout=compact&hide_border=true" height="165"/>
+</p>
 ---
 ## 📫 Contact Me
 
