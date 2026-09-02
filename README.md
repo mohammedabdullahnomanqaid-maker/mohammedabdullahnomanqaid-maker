@@ -195,22 +195,6 @@ Database-Driven Desktop Applications
 *Management & Professional Development*
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
----
 ## 📫 Contact Me
 
 <p align="center">
