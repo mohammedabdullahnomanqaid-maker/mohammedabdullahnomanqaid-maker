@@ -33,3 +33,92 @@ I enjoy turning requirements into structured applications by designing **relatio
 My long-term goal is to grow into a **professional Software Engineer**, continuously strengthening my technical foundation and building reliable, well-structured software.
 
 ---
+## ⚡ Technical Skills & Expertise
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+</p>
+
+### 🪟 .NET & Desktop Development
+
+<p>
+  <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/>
+  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms"/>
+  <img src="https://img.shields.io/badge/Desktop%20Applications-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop Applications"/>
+  <img src="https://img.shields.io/badge/ADO.NET-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ADO.NET"/>
+</p>
+
+### 🧠 Programming & Computer Science
+
+<p>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-6A1B9A?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-FF8C00?style=for-the-badge" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-EF4444?style=for-the-badge" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=for-the-badge" alt="Problem Solving"/>
+</p>
+
+### 🗄️ Database & Data Access
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Database%20Design-1E88E5?style=for-the-badge" alt="Database Design"/>
+  <img src="https://img.shields.io/badge/ERD-00897B?style=for-the-badge" alt="ERD"/>
+  <img src="https://img.shields.io/badge/Relational%20Databases-5E35B1?style=for-the-badge" alt="Relational Databases"/>
+</p>
+
+### 🏗️ Software Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/3--Tier%20Architecture-3949AB?style=for-the-badge" alt="3-Tier Architecture"/>
+  <img src="https://img.shields.io/badge/Business%20Logic-455A64?style=for-the-badge" alt="Business Logic"/>
+  <img src="https://img.shields.io/badge/Data%20Access%20Layer-607D8B?style=for-the-badge" alt="Data Access Layer"/>
+</p>
+
+### 🌿 Version Control & Collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Teamwork-0EA5E9?style=for-the-badge" alt="Teamwork"/>
+</p>
+
+### 🔧 Development Practices
+
+| Skill | Focus |
+|:---|:---|
+| 🧩 **Object-Oriented Design** | Classes, Objects, Encapsulation, Inheritance & Polymorphism |
+| 🏗️ **3-Tier Architecture** | Presentation, Business Logic & Data Access |
+| 🗄️ **Database Design** | Relational Modeling, Tables, Relationships & Constraints |
+| 📐 **ERD** | Modeling database entities and relationships |
+| 🧠 **Algorithms & Data Structures** | Logical thinking, efficiency and structured problem solving |
+| 🧪 **Problem Solving** | Breaking requirements into manageable solutions |
+| 🤝 **Teamwork** | Collaboration, task coordination and working within a team |
+
+### 🎯 Practical Development Experience
+
+```text
+C++ & Programming Fundamentals
+          ↓
+Object-Oriented Programming
+          ↓
+Data Structures & Algorithms
+          ↓
+C# & .NET Framework
+          ↓
+Windows Forms
+          ↓
+ADO.NET
+          ↓
+SQL Server & Database Design
+          ↓
+ERD & Relational Modeling
+          ↓
+3-Tier Architecture
+          ↓
+Database-Driven Desktop Applications
+
+---
