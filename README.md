@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammed Noman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B75,50:167D9A,100:263A80&height=220&section=header&text=Mohammed%20Noman&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 ### 💻 Computer Science Student • C# / .NET Developer • Desktop Application Development
 
@@ -17,7 +17,5 @@
   •
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B75,50:167D9A,100:263A80&height=120&section=header&text=Mohammed%20Noman&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
