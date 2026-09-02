@@ -19,3 +19,17 @@
 </p>
 
 </div>
+
+---
+
+## 🧑‍🎓 Computer Science Student
+
+I am a **Computer Science student at Taiz University**, focused on **software development, problem solving, and practical application development**.
+
+My current development focus is building **database-driven desktop applications** using **C#, .NET Framework, Windows Forms, ADO.NET, SQL Server, and 3-Tier Architecture**.
+
+I enjoy turning requirements into structured applications by designing **relational databases**, implementing **business logic**, and developing software with a focus on **clean architecture, maintainability, and practical problem solving**.
+
+My long-term goal is to grow into a **professional Software Engineer**, continuously strengthening my technical foundation and building reliable, well-structured software.
+
+---
