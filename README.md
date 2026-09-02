@@ -170,3 +170,28 @@ Database-Driven Desktop Applications
 | 🎮 **Math Game** | [v1.0.0](https://github.com/mohammedabdullahnomanqaid-maker/Math-Game-v1.0.0) | 2025/11/28 | 2025/11/30 | C++ |
 
 ---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Computer Science
+
+**Taiz University**  
+📅 **2025 — 2029** · ⏳ **4 Years**
+
+**Field:** Computer Science (CS)
+
+**Academic Focus**
+- 💻 Programming & Software Development
+- 🧠 Problem Solving & Computational Thinking
+- 🗄️ Databases & Data Management
+- 🏗️ Software Engineering Fundamentals
+
+### 📚 Learning & Training
+
+**Programming Advices**  
+*Software Development & Programming Education*
+
+**Management Does**  
+*Management & Professional Development*
+
+---
